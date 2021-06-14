@@ -1,0 +1,2 @@
+# Menu-Vetores-em-C
+Crie um programa que mostre um menu ao utilizador com as opções, preencher vetor, mostrar vetor, mostrar vetor na ordem inversa, mostrar valores múltiplos de 2, mostrar múltiplos de 5, ordenar vetor. O utilizador deve ser obrigado a preencher o vetor sempre que execute o programa, desta forma se a opção escolhida for diferente, este deve de obrigar o utilizador a preencher o vetor primeiro e só depois fazer a operação escolhida.
